@@ -236,7 +236,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DVXOWLWP
 
 [Document12]
-DocumentPath=pin_headers.PcbLib
+DocumentPath=Pin Headers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

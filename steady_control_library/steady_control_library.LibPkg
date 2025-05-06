@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZENLYSJX
 
 [Document2]
-DocumentPath=Aluminum_Electrolytic_Capacitors_SMD.PcbLib
+DocumentPath=Aluminum Electrolytic Capacitors SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KKJAUHNB
 
 [Document3]
-DocumentPath=Aluminum_Electrolytic_Capacitors_Leaded.PcbLib
+DocumentPath=Aluminum Electrolytic Capacitors Leaded.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HGOPINGO
 
 [Document4]
-DocumentPath=chip.PcbLib
+DocumentPath=Chip.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -185,7 +185,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KVHTVRWQ
 
 [Document9]
-DocumentPath=connectors.PcbLib
+DocumentPath=Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -202,7 +202,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GPGUPOHK
 
 [Document10]
-DocumentPath=crystal.PcbLib
+DocumentPath=Crystal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -219,7 +219,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AWCZCGDH
 
 [Document11]
-DocumentPath=modules.PcbLib
+DocumentPath=Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -236,7 +236,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QDJBEDJY
 
 [Document12]
-DocumentPath=fasteners.PcbLib
+DocumentPath=Fasteners.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -270,7 +270,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CGJWYBOF
 
 [Document14]
-DocumentPath=terminals.PcbLib
+DocumentPath=Terminals.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -287,7 +287,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BKNUIFVX
 
 [Document15]
-DocumentPath=drawings.PcbLib
+DocumentPath=Drawings.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -304,7 +304,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KXEPDGUQ
 
 [Document16]
-DocumentPath=misc.PcbLib
+DocumentPath=Misc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -321,7 +321,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UOOJHEDX
 
 [Document17]
-DocumentPath=nixie_tubes.PcbLib
+DocumentPath=Nixie Tubes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -338,7 +338,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NRUKRQQF
 
 [Document18]
-DocumentPath=leds.PcbLib
+DocumentPath=Leds.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -437,7 +437,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HMIHUEWQ
 
 [OutputGroup1]
 Name=Netlist Outputs

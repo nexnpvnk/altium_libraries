@@ -100,6 +100,23 @@ GenerateClassCluster=0
 DocumentUniqueId=HGOPINGO
 
 [Document4]
+DocumentPath=Button And Strip Battery Connector.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GOKWROIN
+
+[Document5]
 DocumentPath=Chip.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCFEUIQM
 
-[Document5]
+[Document6]
 DocumentPath=DFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWISYDTY
 
-[Document6]
+[Document7]
 DocumentPath=QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCCRITXU
 
-[Document7]
+[Document8]
 DocumentPath=QFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FTOBBBXE
 
-[Document8]
+[Document9]
 DocumentPath=SO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVHTVRWQ
 
-[Document9]
+[Document10]
 DocumentPath=Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPGUPOHK
 
-[Document10]
+[Document11]
 DocumentPath=Crystal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWCZCGDH
 
-[Document11]
+[Document12]
 DocumentPath=Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDJBEDJY
 
-[Document12]
+[Document13]
 DocumentPath=Fasteners.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVXOWLWP
 
-[Document13]
+[Document14]
 DocumentPath=Pin Headers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CGJWYBOF
 
-[Document14]
+[Document15]
 DocumentPath=Terminals.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BKNUIFVX
 
-[Document15]
+[Document16]
 DocumentPath=Drawings.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KXEPDGUQ
 
-[Document16]
+[Document17]
 DocumentPath=Misc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOOJHEDX
 
-[Document17]
+[Document18]
 DocumentPath=Nixie Tubes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NRUKRQQF
 
-[Document18]
+[Document19]
 DocumentPath=Leds.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=Female Headers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,7 +388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YSYSCERN
 
-[Document20]
+[Document21]
 DocumentPath=Wire To Board Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,7 +405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXXDZNHZ
 
-[Document21]
+[Document22]
 DocumentPath=Power Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,7 +422,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMFUONLK
 
-[Document22]
+[Document23]
 DocumentPath=Switches.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -422,7 +439,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVIIHCYE
 
-[Document23]
+[Document24]
 DocumentPath=Sensors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -439,7 +456,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HMIHUEWQ
 
-[Document24]
+[Document25]
 DocumentPath=USB Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1101,6 +1118,13 @@ Type148=1
 Type149=1
 Type150=1
 Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
 
 [Difference Levels]
 Type1=1
@@ -1185,6 +1209,10 @@ Type79=1
 Type80=1
 Type81=1
 Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
 
 [Electrical Rules Check]
 Type1=1
